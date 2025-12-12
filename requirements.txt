@@ -1,0 +1,8 @@
+pandas
+scikit-learn
+openpyxl
+ttkbootstrap>=1.10.1
+xgboost
+plotly
+prophet
+streamlit>=1.30.0
