@@ -5,4 +5,5 @@ ttkbootstrap>=1.10.1
 xgboost
 plotly
 prophet
+statsmodels
 streamlit>=1.30.0
